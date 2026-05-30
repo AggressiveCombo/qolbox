@@ -11,7 +11,7 @@ Fullscreen hitbox.io, reserve spots for full lobbies, tab indicator when your ga
 
 ---
 
-**QOLbox** makes [hitbox.io](https://hitbox.io) fullscreen, and makes its audio, chat, lobby, and tab behavior less annoying.
+**QOLBox** makes [hitbox.io](https://hitbox.io) fullscreen, and makes its audio, chat, lobby, and tab behavior less annoying.
 
 It remembers your game and jukebox volume, lets you use the mouse wheel on the game volume control and jukebox knob, keeps the jukebox muted if you want it muted, and makes volume differences feel more natural with exponential volume scaling.
 
