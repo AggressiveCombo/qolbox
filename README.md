@@ -12,3 +12,5 @@ It also includes a possible fix for lobby music playing in-game because of a gam
 Instability/bugs possible!
 
 Written by gpt-5.4 and gpt-5.5 in the Codex CLI.
+
+[Greasyfork link](https://greasyfork.org/en/scripts/568667-qolbox)
