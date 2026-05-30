@@ -1,5 +1,15 @@
 # QOLBox
-Fullscreen hitbox.io, reserve spots for full lobbies, tab indicator when your game starts, Esc chat cancel, persistent audio controls, and a first-start setup menu for choosing QOLBox features.  Reinstall version 1.5.1?
+Fullscreen hitbox.io, reserve spots for full lobbies, tab indicator when your game starts, Esc chat cancel, persistent audio controls, and a first-start setup menu for choosing QOLBox features.
+
+<p align="center">
+  <img src="assets/QOLBox_Menu.png"
+       alt="QOLBox Menu showcasing different toggleable features"
+       width="800">
+  <br>
+  <em>QOLBox menu with toggleable gameplay features</em>
+</p>
+
+---
 
 **QOLbox** makes [hitbox.io](https://hitbox.io) fullscreen, and makes its audio, chat, lobby, and tab behavior less annoying.
 
@@ -12,5 +22,7 @@ It also includes a possible fix for lobby music playing in-game because of a gam
 Instability/bugs possible!
 
 Written by gpt-5.4 and gpt-5.5 in the Codex CLI.
+
+> Thank you for using QOLBox! ❤️
 
 [Greasyfork link](https://greasyfork.org/en/scripts/568667-qolbox)
